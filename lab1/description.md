@@ -257,7 +257,7 @@ POST /api/v1/urls
 
 ## 5. UML-диаграмма
 
-![diagram1]("./diagram1.jpg")
+![diagram1]("diagram1.jpg")
 
 ```uml
 @startuml  Component Diagram
@@ -313,7 +313,7 @@ end note
 @enduml
 ```
 
-![diagram2]("./diagram2.jpg")
+![diagram2]("diagram2.jpg")
 
 ```uml
 graph TD
